@@ -204,7 +204,7 @@ function App() {
         <div className='container px-5 py-24 mx-auto'>
           <div className='text-center mb-20'>
             <h1 className='text-2xl sm:text-3xl font-medium mb-2 text-gray-900'>About Me</h1>
-            <p className='pb-10'>これまで、マーケティング業界で数年間財務分析を行ってきました。現在はIT業界でシステムこうチックに従事しながら副業としteWebサイトやWebAppを個人として受注しています。また投資やコンサルティングも積極的に行っており、ご相談されたい方はコンタクトお待ちしています。</p>
+            <p className='pb-10'>これまで、マーケティング業界で数年間財務分析を行ってきました。現在はIT業界でシステムこうチックに従事しながら副業としてWebサイトやWebAppを個人として受注しています。また投資やコンサルティングも積極的に行っており、ご相談されたい方はコンタクトお待ちしています。</p>
             <p>以下に個人としての成果物を公開しています。主にSNSなどのChatアプリの構築をReactのJSやTSで実装しています。またPythonを使ってAIによる株価の予測サイトを構築しました。また数件の事業所のWebサイトの構築など多岐にわたります。</p>
           </div>
           <div className='flex flex-wrap'>
